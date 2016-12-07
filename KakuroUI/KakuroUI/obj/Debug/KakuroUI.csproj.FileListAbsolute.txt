@@ -1,0 +1,22 @@
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\bin\Debug\KakuroUI.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\bin\Debug\KakuroUI.exe
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\bin\Debug\KakuroUI.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.KakuroGridView.resources
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.exe
+c:\users\administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\KakuroUI\KakuroUI\obj\Debug\KakuroUI.kakuroSquare.resources
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\bin\Debug\KakuroUI.exe.config
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\bin\Debug\KakuroUI.exe
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\bin\Debug\KakuroUI.pdb
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.Form1.resources
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.KakuroGridView.resources
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.kakuroSquare.resources
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.exe
+C:\Users\Administrator\Source\Repos\Kakuro-UI\KakuroUI\KakuroUI\obj\Debug\KakuroUI.pdb
